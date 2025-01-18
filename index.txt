@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>admipromeli.site</title>
+  </head>
+  <body>
+    <h1>admipromeli.site</h1>
+    <p>Este dominio está configurado exclusivamente como "REDIRECT URI" para la autenticación con la API de Mercado Libre.Tafur</p>
+    <p>Fecha de configuración: 15 de enero de 2025.</p>
+  </body>
+</html>
